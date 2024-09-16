@@ -30,14 +30,15 @@
   </a>
 </div>
 
-###
+<!-- ###
 
 <img src="https://raw.githubusercontent.com/W45ab1/W45ab1/output/snake.svg" alt="Snake animation" />
+-->
 
 ###
 
 <div align="center">
-  <img height="200" src="https://commons.wikimedia.org/wiki/File:Wikimania2023_Animated_Sticker_Laptop_01.gif"  />
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Wikimania2023_Animated_Sticker_Laptop_01.gif"  />
 </div>
 
 ###
